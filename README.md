@@ -1,6 +1,9 @@
 ## 👋 안녕하세요, 양진혁입니다!
 데이터 흐름과 API 설계를 중요하게 생각하는 백엔드 개발자입니다.
 
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://y-jh107.notion.site/Portfolio-2e67676bcbd080d4a05bf30939c2c228)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jin99545@gmail.com)
+
 ---
 
 ### 🛠 Tech Stack
