@@ -1,7 +1,5 @@
-## 👋 Hi there, I'm Jinhyuk Yang
-
-Backend Developer  
-→ 프론트엔드의 흐름을 이해하는 서버 개발자를 지향합니다.
+## 👋 안녕하세요, 양진혁입니다!
+데이터 흐름과 API 설계를 중요하게 생각하는 백엔드 개발자입니다.
 
 ---
 
@@ -26,14 +24,7 @@ Backend Developer
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=y-jh107&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-jh107&layout=compact)
-
----
-
-### 📂 Projects
-- AdvICE-Team1
-- ScholarBee
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y-jh107&theme=default)
 
 
 
